@@ -1,3 +1,6 @@
 rama1
 cambios
 en master
+varias
+lineas
+texto
